@@ -8,7 +8,7 @@ Landing page e tema-filho WordPress da **2Call Cuiabá** (SMS Marketing em massa
 
 <br>
 
-<img src="assets/preview.webp" alt="Prévia da landing page 2Call Cuiabá" width="640">
+<img src="assets/preview.png" alt="Prévia da landing page 2Call Cuiabá" width="720">
 
 </div>
 

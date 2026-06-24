@@ -1,6 +1,16 @@
-# 2CALL — Landing Page Cuiabá
+<div align="center">
+
+<img src="assets/logo-2call.png" alt="2Call Cuiabá" width="320">
+
+# Landing Page Cuiabá
 
 Landing page e tema-filho WordPress da **2Call Cuiabá** (SMS Marketing em massa).
+
+<br>
+
+<img src="assets/preview.webp" alt="Prévia da landing page 2Call Cuiabá" width="640">
+
+</div>
 
 ## Estrutura
 

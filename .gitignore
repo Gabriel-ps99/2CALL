@@ -1,0 +1,25 @@
+# Configurações locais do Claude Code (específicas da máquina)
+.claude/settings.local.json
+
+# Notas / arquivos de rascunho
+git.txt
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Dependências e build (caso adicione tooling no futuro)
+node_modules/
+dist/
+build/
+
+# Logs e temporários
+*.log
+*.tmp
